@@ -5,7 +5,7 @@ num1 = 5
 num2 = 5
 result = "1" + "1"
 
-num1 = 10 #redelcaration - reassignment
+num1 = 10 #redeclaration - reassignment
 num2 = 15
 result = num2 - num1
 
