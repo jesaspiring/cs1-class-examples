@@ -14,4 +14,11 @@ num2 = 550
 result = num1 * num2
 result = num1 / num2
 
-print(num1 % 5 == 0)
+num3 = 10
+num4 = 5
+
+exponent = num3^num4
+floor_division = num3//num4
+
+print(exponent)
+print(floor_division)
