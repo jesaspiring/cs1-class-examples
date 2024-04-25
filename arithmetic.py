@@ -17,7 +17,7 @@ result = num1 / num2
 num3 = 10
 num4 = 5
 
-exponent = num3^num4
+exponent = num3**num4
 floor_division = num3//num4
 
 print(exponent)
